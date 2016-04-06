@@ -10,7 +10,7 @@ The exchange of information between client and server will be through TCP socket
 This information will be used to allow P2P communication between clients through an UDP socket.
 
 The game map is the following:
-![Map](map.png)
+![Map](map.PNG)
 		 
 ## Client
 The client must be started with the following syntax
